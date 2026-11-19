@@ -7,4 +7,4 @@ kèm đề xuất phương án an toàn / tối ưu utilization.
 
 - Chọn loại xe, xoay/zoom mô hình, bấm "Xếp từng bước" để xem thứ tự đóng hàng.
 - Số liệu: kích thước kiện & lòng thùng từ file dữ liệu Flat 3; trọng lượng bình 130 kg, kính 10 kg, chân 10 kg.
-- Cập nhật: 19/11/2026.
+- Cập nhật: 19/11/2026 (v2 – thêm quy tắc chống lật: bình đứng tối thiểu 2 làn, xe nhỏ đặt bình nằm).
